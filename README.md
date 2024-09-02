@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**nattaly14/nattaly14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### boas vinda ao meu perfil 💜
+ eu so natta1y 🖤
 
-Here are some ideas to get you started:
+ estou estudando na plantaforma [alura]( hattps://curso.alura.com.br)
+ estou me desenvolvendona liguagem javascript
+utilizo esse espaço para minha organização e comṕartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ ### voce pode entra em contato 
+
+ instragram nattalymartinslopes@ 
+
+
+
+
+ ![]()
